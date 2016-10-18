@@ -17,7 +17,7 @@ Untuk penyampain data atau sebuah informasi alangkah baiknya jika kita menggunak
 
 Kesimpulan : Jadi kesimpulan dari penulisan resume ini adalah TCP/IP menggabungkan session layer dan Presentation layer kedalam application layer.
 
-Saran : Sebaiknya kita lebih baik untuk menggunakan TCP/IP dalam tahapan sekarang, karena TCP/IP lah yang mempermudah atau lebih sederhana pada pengiriman informasi atau data
+Saran : Sebaiknya kita lebih baik untuk menggunakan TCP/IP dalam tahapan sekarang, karena TCP/IP lah yang mempermudah atau lebih sederhana pada pengiriman informasi atau data.
 
 **Nama : Tentri May Simbolon**
 
@@ -29,12 +29,10 @@ Saran : Sebaiknya kita lebih baik untuk menggunakan TCP/IP dalam tahapan sekaran
 
 Link Github : [https://github.com/TentriSimbolon/keamananjaringan](https://github.com/TentriSimbolon/keamananjaringan)
 
-Referesnsi: ** ** [http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html](http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html)
+Referesnsi: [http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html](http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html)
 
 Scan Plagiarisme :
 
 1. Smallseotools : [https://drive.google.com/open?id=0B7tQon2iaQFdRGFZY3NoM3habGM](https://drive.google.com/open?id=0B7tQon2iaQFdRGFZY3NoM3habGM).
 
-1. Shareenginereport :
-
-[https://drive.google.com/open?id=0B7tQon2iaQFdVjlLRk4xUE5UdUE](https://drive.google.com/open?id=0B7tQon2iaQFdVjlLRk4xUE5UdUE).
+1. Shareenginereport : [https://drive.google.com/open?id=0B7tQon2iaQFdVjlLRk4xUE5UdUE](https://drive.google.com/open?id=0B7tQon2iaQFdVjlLRk4xUE5UdUE).
