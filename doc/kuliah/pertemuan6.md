@@ -3,18 +3,26 @@
      Serangan ini berbeda dengan kejahatan pencurian data atau kejahatan memonitor inforamasi yang lalu lalang. Dalam serangan DoS tidak ada yang dicuri, tapi hal ini dapat mengakibatkan kerugian financial. Sebagai contoh apabila sistem yang diserang merupakan server yang menangani transaksi “commerce”, maka apabila server tersebut tidak berfungsi, transaksi tidak dapat dilangsungkan. Bayangkan apabila sebuah bank diserang oleh bank saingan dengan melumpuhkan outlet ATM (Anjungan Tunai Mandiri, Automatic Teller Machine) yang dimiliki oleh bank tersebut. Atau sebuah credit card merchant server yang diserang, sehingga tidak dapat menerima pembayaran melalui credit card.
 Selain itu, serangan DoS sering digunakan sebagai bagian dari serangan lainnya. Misalnya, dalam serangan IPspoofing (seolah serangan datang dari tempat lain dengan nomor IP milik orang lain), seringkali DoS digunakan untuk membungkam server yang akan dispoof.
 
- # KLASIFIKASI SERANGAN DOS
+ ## KLASIFIKASI SERANGAN DOS
 Denial Of Service Attack adalah serangan yang paling sering digunakan daripada serangan yang lain, hal ini dikarenakan mudahnya untuk melakukannya, exploits-nya pun banyak ditemukan di internet. Siapapun bisa men-down kan sebuah website dengan hanya menggunakan simple command prompt. Tujuan utama serangan ini adalah membuat suatu sistem crash & karena overload sehingga tidak bisa diakses atau mematikan service.
 
 
 Beberapa klasifikasi serangan DoS:
+
 1.   Land Attack
+
 Land attack merupakan serangan kepada sistem dengan menggunakan program yang bernama “land”. Program land menyerang server yang dituju dengan mengirimkan packet palsu yang seolah-olah berasal dari server yang dituju. Dengan kata lain, source dan destination dari packet dibuat seakan-akan berasal dari server yang dituju. Akibatnya server yang diserang menjadi bingung.
+
 2.   Latierra
+
 Program latierra merupakan “perbaikan” dari program land, dimana port yang digunakan berubah-ubah sehingga menyulitkan bagi pengamanan.
+
 3.   Ping Broadcast (Smurf)
+
 Salah satu mekanisme serangan yang baru-baru ini mulai marak digunakan adalah menggunakan ping ke alamat broadcast, ini yang sering disebut dengan smurf. Seluruh komputer (device) yang berada di alamat broadcast tersebut akan menjawab. Jika sebuah sistem memiliki banyak komputer (device) dan ping broadcast ini dilakukan terus menerus, jaringan dapat dipenuhi oleh respon-respon dari device-device tersebut. Akibatnya jaringan menjadi lambat.
+
 4.   Ping of Death (PoD)
+
 Ping-o-death sebetulnya adalah eksploitasi program ping dengan memberikan packet yang ukurannya besar ke sistem yang dituju. Beberapa sistem UNIX ternyata menjadi hang ketika diserang dengan cara ini. Program ping umum terdapat di berbagai operating system, meskipun umumnya program ping tersebut mengirimkan packet dengan ukuran kecil (tertentu) dan tidak memiliki fasilitas untuk mengubah besarnya packet. Salah satu implementasi program ping yang dapat digunakan untuk mengubah ukuran packet adalah program ping yang ada di sistem Windows 95.
 
 
