@@ -49,7 +49,6 @@ Lebih membanyak ilmu dan mencari referensi lain untuk bahan praktek denial of se
 * Kelas : D4 Teknik Informatika 3C
 * Kampus : Politeknik Pos Indonesia
 
-## Referensi : Matakuliah Keamanan Jaringan
 ## Link Plagiarisme
 Smallseotools : https://drive.google.com/open?id=0B7tQon2iaQFdRGFZY3NoM3habGM 
 Duplichecker: https://drive.google.com/open?id=0B7tQon2iaQFdVjlLRk4xUE5UdUE 
