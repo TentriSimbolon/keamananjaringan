@@ -28,15 +28,21 @@ Ping-o-death sebetulnya adalah eksploitasi program ping dengan memberikan packet
 
 
 # Solusi Masalah
+
 Denial of service adalah Suatu metode yang sudah putus asa mencoba berbagai data. Cara kerja dari denial service adalah Membuat register biasa terhadap server melebihi kapasitas pelayanan service sehingga server tidak bisa melayani permintaan lainnya. Dalam deniel of service ada yang disebut dengan Distributor DOS. Distributor DOS adalah Kumpulam orang orang yang melakukan DOS.
 Kapasitas layanan Web dapat dicontohkan dengan X. .Jika Petrik membuuat request sebanyak X maka spongebob tiak dilayani, Tapi server masih hidup hanya saja sibuk melayani Petrik. 
+
 Apa yang perlu dipersiapkan penyerang :
 1.      Hanya req sebanyak x
 2.      Jika belum bisa mencapai x maka panggil teman teman bergabunglah denagn teman teman dan membentuk distributor DOS.
-## Kesimpulan                                                        
-                Kesimpulan Denial of service adalah Suatu metode yang sudah putus asa mencoba berbagai data. Cara kerja dari denial service adalah Membuat register biasa terhadap server melebihi kapasitas pelayanan service sehingga server tidak bisa melayani permintaan lainnya. Karena dengan denial of service server bisa diserang dengan beberapa kali dengan satu pc.
+
+## Kesimpulan
+
+Kesimpulan Denial of service adalah Suatu metode yang sudah putus asa mencoba berbagai data. Cara kerja dari denial service adalah Membuat register biasa terhadap server melebihi kapasitas pelayanan service sehingga server tidak bisa melayani permintaan lainnya. Karena dengan denial of service server bisa diserang dengan beberapa kali dengan satu pc.
+
 ## Saran
-            Lebih membanyak ilmu dan mencari referensi lain untuk bahan praktek denial of service. karena denail of service sangat penting dalam pengamanan ataupun penyerang suatu server atau website.
+
+Lebih membanyak ilmu dan mencari referensi lain untuk bahan praktek denial of service. karena denail of service sangat penting dalam pengamanan ataupun penyerang suatu server atau website.
             
 * Nama : Tentri May Simbolon
 * Npm : 1144027
