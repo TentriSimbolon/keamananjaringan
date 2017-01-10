@@ -30,6 +30,7 @@ dKesimpulannya adalah IDS adalah suatu program yang di rancang untuk memonitorin
 ## Saran
 Memaksimalkan Praktek Langsung
 <br>
+
 ·         Nama : Tentri May Simbolon
 ·         NPM : 1144027
 ·         Kelas : D4 Teknik Informatika 3C
